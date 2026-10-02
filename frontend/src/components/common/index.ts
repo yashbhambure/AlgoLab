@@ -17,4 +17,6 @@ export { EmptyState } from "./EmptyState";
 export { SystemStatus } from "./SystemStatus";
 export { AnimatedNumber } from "./AnimatedNumber";
 export { AtmosphericBackground } from "./AtmosphericBackground";
+export { RealisticGridCanvas } from "./RealisticGridCanvas";
 export { ThemeToggle } from "./ThemeToggle";
+
